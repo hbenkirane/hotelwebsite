@@ -1,2 +1,2 @@
 # hotelwebsite
-example project -> https://hbenkirane.github.io/hotelwebsite
+demo project -> https://hbenkirane.github.io/hotelwebsite
